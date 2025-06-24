@@ -40,4 +40,8 @@ This Excel file contains my first practice in:
 
 Add Excel practice (01–03) section with download link
 
+### 04 – Excel Formulas & Functions
+
+- [x] Practiced formulas (SUM, IF, COUNT, etc.) and table formatting
+- [x] Updated Excel file added under `01_intro_to_excel/data/raw/`
 
