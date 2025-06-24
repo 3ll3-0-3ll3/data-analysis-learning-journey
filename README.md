@@ -27,3 +27,16 @@ This repo is where I document my step-by-step progress as I explore tools and te
 ---
 
 Stay tuned as I add real practice files and projects from each stage 💪🏾
+
+## 📊 Excel Practice (01–03)
+
+This Excel file contains my first practice in:
+
+- Creating and formatting a table (01)
+- Making a pie chart from the data (02)
+- Creating a bar chart (03)
+
+📁 [Download the Excel file here](data/raw/Excel_basics.xlsx)
+
+
+
