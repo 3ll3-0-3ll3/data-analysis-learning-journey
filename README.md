@@ -45,3 +45,4 @@ Add Excel practice (01–03) section with download link
 - [x] Practiced formulas (SUM, IF, COUNT, etc.) and table formatting
 - [x] Updated Excel file added under `01_intro_to_excel/data/raw/`
 
+- ✔️ Created pivot tables and charts to analyze monthly product revenue and trends (Sheets 04–05)
